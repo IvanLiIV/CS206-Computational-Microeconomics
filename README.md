@@ -1,6 +1,6 @@
 # Hello there! 🌟 I'm Yifan Li
 
-![Profile Banner Image](url-to-your-banner-image.jpg)
+![Profile Banner Image](https://github.com/usernameavalible/CS206-Computational-Microeconomics/blob/main/498603743923548540.jpg)
 
 ## 🚀 About Me
 I'm a senior Data Science major at Duke Kunshan University. My academic pursuits are centered around employing data science techniques to tackle the challenges of misinformation detection, enhancing the reliability of information in our digital age.
