@@ -16,4 +16,4 @@ This GitHub Repository is prepared as part of my coursework for COMSCI/ECON 206 
 - [Advanced CSEcon](/Advance_CSEcon/README.md) - Advanced reflections on Milestone 2
 
 ## 🌟 Quick Links
-- [Headshot](url-to-your-headshot.jpg) - Take a quick look at who I am!
+- [Headshot](https://github.com/usernameavalible/CS206-Computational-Microeconomics/blob/main/461443985535417986.jpg) - Take a quick look at who I am!
