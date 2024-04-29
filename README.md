@@ -15,8 +15,6 @@ This GitHub Repository is prepared as part of my coursework for COMSCI/ECON 206 
 - [CSEcon](/CSEcon/README.md) - Reflections on Milestone 1
 - [Advanced CSEcon](/Advance_CSEcon/README.md) - Advanced reflections on Milestone 2
 
-## 🌟 Quick Links
-- [Headshot](https://github.com/usernameavalible/CS206-Computational-Microeconomics/blob/main/461443985535417986.jpg) - Take a quick look at who I am!
 
 ## 📬 How to Reach Me
 - **Email**: [yl772@duke.edu](mailto:yl772@duke.edu)
