@@ -16,13 +16,14 @@ I am immensely thankful to Professor Luyao Zhang for her invaluable guidance. He
 ## Research Documentation
 
 ### Research Poster
+![Uploading Enhancing Trust Games with LLM Fact-Checking A New Paradigm in Economic Strategy.png…]()
 
 
 
 *Figure 1: Research Poster for LLM in Trust Games*
 
 ### Interactive Document
-[View the Overleaf Project](URL_to_shared_view_overleaf)
+[View the Overleaf Project](https://www.overleaf.com/read/bhykpmdhbvzz#634001)
 
 ### Visual Outline of Research
 ![Link to Research Outline](path_to_research_outline.jpg)  
