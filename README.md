@@ -14,7 +14,7 @@ This repository encompasses all assignments of the course: Computational Microec
 
 ### Table of Contents
 - [CSEcon](/CSEcon)
-- [Advance_CSEcon](/Advance_CSEcon)
+- [Advance_CSEcon](/Advance_CSECON)
 - [Final Project Proposal](/Proposal)
 
 ### More About the Author
