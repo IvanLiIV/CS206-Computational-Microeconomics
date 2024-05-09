@@ -13,8 +13,8 @@ I would like to express my sincere gratitude to my instructor, Prof. Luyao (Suns
 This repository encompasses all assignments of the course: Computational Microeconomics. It explores the integration of Large Language Models (LLMs) into economic trust games to dynamically assess and predict trustworthiness among participants, enhancing decision-making in economic interactions.
 
 ### Table of Contents
-- [Problem Set 1](/CSEcon)
-- [Advanced Reflections on Milestone 1](/Advanced_CSEcon)
+- [CSEcon](/CSEcon)
+- [Advanced_CSEcon](/Advanced_CSEcon)
 - [Final Project Proposal](/Proposal)
 
 ### More About the Author
@@ -33,9 +33,7 @@ I'm also the founder of the HEMA (Historical European Martial Arts) club at DKU.
 ## 📚 Repository Overview
 This GitHub Repository is prepared as part of my coursework for COMSCI/ECON 206 Computational Microeconomics. It includes detailed analyses and reflections designed to showcase the integration of computer science and economics in solving complex problems.
 
-## 📖 Table of Contents
-- [CSEcon](/CSEcon/README.md) - Reflections on Milestone 1
-- [Advanced CSEcon](/Advance_CSEcon/README.md) - Advanced reflections on Milestone 2
+
 
 ## 📬 How to Reach Me
 - **Email**: [yl772@duke.edu](mailto:yl772@duke.edu)
