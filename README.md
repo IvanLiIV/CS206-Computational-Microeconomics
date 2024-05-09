@@ -14,7 +14,7 @@ This repository encompasses all assignments of the course: Computational Microec
 
 ### Table of Contents
 - [CSEcon](/CSEcon)
-- [Advance_CSEcon](/Advance_CSECON )
+- [Advance_CSEcon](https://github.com/IvanLiIV/CS206-Computational-Microeconomics/tree/main/Advance_CSECON%20 )
 - [Final Project Proposal](/Proposal)
 
 ### More About the Author
