@@ -15,7 +15,10 @@ This GitHub Repository is prepared as part of my coursework for COMSCI/ECON 206 
 - [CSEcon](/CSEcon/README.md) - Reflections on Milestone 1
 - [Advanced CSEcon](/Advance_CSEcon/README.md) - Advanced reflections on Milestone 2
 
-
 ## 📬 How to Reach Me
 - **Email**: [yl772@duke.edu](mailto:yl772@duke.edu)
 
+## Final Reflections
+- **Intellectual Growth**: Throughout this course, I have expanded my understanding of how machine learning can address significant social and economic challenges. The magic of interdisciplinary research lies in its ability to bridge diverse fields, offering new perspectives and solutions.
+- **Professional Growth**: This course has enhanced my skill set, blending technical prowess with economic insight, which is essential for crafting a well-rounded professional profile.
+- **Living a Purposeful Life**: My aspiration is to pioneer advances in the integration of AI and economics, aiming for impactful contributions that enhance societal welfare. Imagine one day receiving the Turing Award for revolutionizing economic theories through AI.
