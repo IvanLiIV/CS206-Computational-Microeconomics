@@ -1,3 +1,25 @@
+# CSECON206_Spring2024
+## Enhancing Economic Trust Games with Large Language Models: A Computational Approach to Dynamic Trust Assessment
+
+### Project Information
+- **Author**: Yifan Li, Majoring in Data Science, Class of 2024, Duke Kunshan University
+- **Instructor**: Professor Luyao Zhang, Duke Kunshan University
+- **Disclaimer**: This is a submission for the Final Project in COMSCI/ECON 206 Computational Microeconomics, Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
+
+### Acknowledgements
+I would like to express my sincere gratitude to my instructor, Prof. Luyao (Sunshine) Zhang, for her invaluable guidance and support throughout the development of this computational economics paper. I am grateful for the stimulating discussions with my classmates that enhanced my understanding of the complex issues at hand. Special thanks to my friends and family for their encouragement and support throughout this journey. Your love and support have been a constant source of inspiration.
+
+### Introduction to the GitHub Repository
+This repository encompasses all assignments of the course: Computational Microeconomics. It explores the integration of Large Language Models (LLMs) into economic trust games to dynamically assess and predict trustworthiness among participants, enhancing decision-making in economic interactions.
+
+### Table of Contents
+- [Problem Set 1](/CSEcon)
+- [Advanced Reflections on Milestone 1](/Advanced_CSEcon)
+- [Final Project Proposal](/Proposal)
+
+### More About the Author
+
+
 # Hello there! 🌟 I'm Yifan Li
 
 ![Profile Banner Image](https://github.com/usernameavalible/CS206-Computational-Microeconomics/blob/main/498603743923548540.jpg)
