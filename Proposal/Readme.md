@@ -26,7 +26,9 @@ I am immensely thankful to Professor Luyao Zhang for her invaluable guidance. He
 [View the Overleaf Project](https://www.overleaf.com/read/bhykpmdhbvzz#634001)
 
 ### Visual Outline of Research
-![Link to Research Outline](path_to_research_outline.jpg)  
+<img width="626" alt="mindmap" src="https://github.com/IvanLiIV/CS206-Computational-Microeconomics/assets/107166755/4c309c34-64c7-428e-9c14-cba1de502e57">
+
+  
 *Figure 2: Visual Outline of the Project*
 
 ## Research Background and Motivation
