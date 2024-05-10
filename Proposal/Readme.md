@@ -56,6 +56,22 @@ The initial simulations demonstrate that LLMs can effectively enhance trust pred
 This research opens pathways for future investigations into the scalability of LLM applications in diverse economic settings and their potential to inform policy-making and strategic economic decisions.
 
 ## Bibliography and References
-- Include references to key literature and data sources used in the research here.
+[1] Z. C. Li Yifan, “An exploration of large language models for verification of
+news headlines,” in 2023 IEEE International Conference on Data Mining
+Workshops (ICDMW), 2023, pp. 197–206.
+[2] V. Neumann and O. Morgenstern, Theory of Games and Economic Behavior.
+(Second edition.). Princeton University Press, 1947.
+[3] S. V. Burks, J. P. Carpenter, and E. Verhoogen, “Playing both roles in the
+trust game,” Journal of Economic Behavior Organization, vol. 51, no. 2, pp.
+195–216, 2003. [Online]. Available: https://www.sciencedirect.com/science/
+article/pii/S0167268102000938
+[4] O. M. John Neumann, Theory of Games and Economic Behavior. Princeton:
+Princeton University Press, 1944, chapter on Mixed Strategies.
+[5] J. Duan, R. Zhang, J. Diffenderfer, B. Kailkhura, L. Sun, E. Stengel-Eskin,
+M. Bansal, T. Chen, and K. Xu, “Gtbench: Uncovering the strategic reason-
+ing limitations of llms via game-theoretic evaluations,” 2024.
+[6] S. Mao, Y. Cai, Y. Xia, W. Wu, X. Wang, F. Wang, T. Ge, and F. Wei,
+“Alympics: Llm agents meet game theory – exploring strategic decision-
+making with ai agents,” 2024.
 
 
